@@ -1,6 +1,5 @@
-You can read about it here
+# CVSS 3.1 Calculator
+Originally from: [https://github.com/moheshmohan/cvssv3_Excel](https://github.com/moheshmohan/cvssv3_Excel)
 
-http://www.h4hacks.com/2017/03/cvssv3-calculator-in-excel.html
-
-
-Update : Finally Got time to add environment metrics to the excel. thanks to Lejla Memic for inspiring me do it :)
+# Usage
+Just download the xlsx file and drop it into your Google SpreadSheet or Microsoft Office (both online or offline version). The Macro should work.
